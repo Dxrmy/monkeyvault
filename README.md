@@ -27,7 +27,6 @@
 - [✨ Features](#-features)
 - [📥 Installation](#-installation)
 - [📜 Script List](#-script-list)
-- [🔗 Discord Server](#-discord-server)
 - [⭐ Support the Project](#-support-the-project)
 - [🚨 Important Notice](#-important-notice)
 
@@ -60,11 +59,6 @@ Consider giving the project a ⭐ star on GitHub! Your support helps more people
 [![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-red?style=for-the-badge)](https://github.com/sponsors/Dxrmy)
 
 ## 🚨 Important Notice
-- These scripts are provided "as is" and are intended for educational and personal use.
-- Always review the code of a script before installing it.
-
-<p align="center">💻 Developed with ❤️ by <a href="https://github.com/Dxrmy">Dxrmy</a> | 📜 Licensed under MIT</p>
-e
 - These scripts are provided "as is" and are intended for educational and personal use.
 - Always review the code of a script before installing it.
 
