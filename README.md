@@ -1,15 +1,15 @@
 <p align="center">
 	<a href="#">
-		<img src="https://raw.githubusercontent.com/REVENGE977/MonkeyVault/main/assets/monkey_logo.png" alt="MonkeyVault Icon" width="128">
+		<img src="https://raw.githubusercontent.com/Dxrmy/monkeyvault/main/assets/monkey_logo.png" alt="MonkeyVault Icon" width="128">
 	</a>
 	<h1 align="center">MonkeyVault</h1>
 	<h5 align="center">A curated collection of lightweight Userscripts designed to enhance, bypass, and refine the modern web.</h5>
 	<p align="center">
-		<a href="https://github.com/REVENGE977/MonkeyVault/stargazers">
-			<img src="https://img.shields.io/github/stars/REVENGE977/MonkeyVault.svg?style=for-the-badge&color=%237B5BF5" alt="stargazers">
+		<a href="https://github.com/Dxrmy/monkeyvault/stargazers">
+			<img src="https://img.shields.io/github/stars/Dxrmy/monkeyvault.svg?style=for-the-badge&color=%237B5BF5" alt="stargazers">
 		</a>
-		<a href="https://github.com/REVENGE977/MonkeyVault/issues">
-			<img src="https://img.shields.io/github/issues/REVENGE977/MonkeyVault?style=for-the-badge&color=%237B5BF5" alt="Issues">
+		<a href="https://github.com/Dxrmy/monkeyvault/issues">
+			<img src="https://img.shields.io/github/issues/Dxrmy/monkeyvault?style=for-the-badge&color=%237B5BF5" alt="Issues">
 		</a>
 		<br>
 		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -51,8 +51,8 @@ MonkeyVault is a centralized repository for my custom Userscripts. From UI tweak
 
 | Script Name | Description | Install Link |
 | :--- | :--- | :--- |
-| **Imgur Unblocker** | Bypasses proxy blocks and restores image visibility for Imgur. | [Install](https://github.com/REVENGE977/MonkeyVault/raw/main/imgur_proxy_unblocker.user.js) |
-| **YTCW Bypass** | Automatically bypasses YouTube Content Warning / Age-restriction overlays. | [Install](https://github.com/REVENGE977/MonkeyVault/raw/main/YTCWBypass.user.js) |
+| **Imgur Proxy Auto-Loader** | Bypasses proxy blocks and automatically restores image visibility for Imgur. | [Install](https://github.com/Dxrmy/monkeyvault/raw/main/imgur-proxy-auto-loader.user.js) |
+| **YTCW Bypass** | Automatically bypasses YouTube Content Warning / Age-restriction overlays. | [Install](https://github.com/Dxrmy/monkeyvault/raw/main/ytcwbypass.user.js) |
 
 ## 🔗 Discord Server
 You can contact me on my Discord server to discuss anything related to my projects, suggest new script ideas, or report issues.
@@ -62,10 +62,10 @@ You can contact me on my Discord server to discuss anything related to my projec
 ## ⭐ Support the Project
 Consider giving the project a ⭐ star on GitHub! Your support helps more people discover it and keeps me motivated to improve it.
 
-[![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-red?style=for-the-badge)](https://github.com/sponsors/REVENGE977)
+[![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-red?style=for-the-badge)](https://github.com/sponsors/Dxrmy)
 
 ## 🚨 Important Notice
 - These scripts are provided "as is" and are intended for educational and personal use.
 - Always review the code of a script before installing it.
 
-<p align="center">💻 Developed with ❤️ by <a href="https://github.com/REVENGE977">REVENGE977</a> | 📜 Licensed under MIT</p>
+<p align="center">💻 Developed with ❤️ by <a href="https://github.com/Dxrmy">Dxrmy</a> | 📜 Licensed under MIT</p>
