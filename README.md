@@ -54,17 +54,17 @@ MonkeyVault is a centralized repository for my custom Userscripts. From UI tweak
 | **Imgur Proxy Auto-Loader** | Bypasses proxy blocks and automatically restores image visibility for Imgur. | [Install](https://github.com/Dxrmy/monkeyvault/raw/main/imgur-proxy-auto-loader.user.js) |
 | **YTCW Bypass** | Automatically bypasses YouTube Content Warning / Age-restriction overlays. | [Install](https://github.com/Dxrmy/monkeyvault/raw/main/ytcwbypass.user.js) |
 
-## 🔗 Discord Server
-You can contact me on my Discord server to discuss anything related to my projects, suggest new script ideas, or report issues.
-
-[![Discord Server](https://dcbadge.limes.pink/api/server/https://discord.gg/jDsgcehrp7?theme=default-inverted&style=for-the-badge)](https://discord.gg/jDsgcehrp7)
-
 ## ⭐ Support the Project
 Consider giving the project a ⭐ star on GitHub! Your support helps more people discover it and keeps me motivated to improve it.
 
 [![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-red?style=for-the-badge)](https://github.com/sponsors/Dxrmy)
 
 ## 🚨 Important Notice
+- These scripts are provided "as is" and are intended for educational and personal use.
+- Always review the code of a script before installing it.
+
+<p align="center">💻 Developed with ❤️ by <a href="https://github.com/Dxrmy">Dxrmy</a> | 📜 Licensed under MIT</p>
+e
 - These scripts are provided "as is" and are intended for educational and personal use.
 - Always review the code of a script before installing it.
 
