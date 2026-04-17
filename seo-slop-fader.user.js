@@ -3,7 +3,7 @@
 // @namespace    https://github.com/Dxrmy/monkeyvault
 // @version      1.0
 // @description  Identify and visually demote AI-generated SEO slop. Keeps your search results clean, focused, and human.
-// @author       Dxrmy
+// @author       Dormy
 // @match        https://www.google.com/search*
 // @icon         https://raw.githubusercontent.com/Dxrmy/monkeyvault/main/assets/monkey_logo.png
 // @grant        GM_xmlhttpRequest
