@@ -52,6 +52,7 @@ MonkeyVault is a centralized repository for my custom Userscripts. From UI tweak
 | :--- | :--- | :--- |
 | **Imgur Proxy Auto-Loader** | Bypasses proxy blocks and automatically restores image visibility for Imgur. | [Install](https://github.com/Dxrmy/monkeyvault/raw/main/imgur-proxy-auto-loader.user.js) |
 | **YTCW Bypass** | Automatically bypasses YouTube Content Warning / Age-restriction overlays. | [Install](https://github.com/Dxrmy/monkeyvault/raw/main/ytcwbypass.user.js) |
+| **SEO Slop Fader** | Identify and visually demote AI-generated SEO slop. Keeps your search results clean, focused, and human. | [Install](https://github.com/Dxrmy/monkeyvault/raw/main/seo-slop-fader.user.js) |
 
 ## ⭐ Support the Project
 Consider giving the project a ⭐ star on GitHub! Your support helps more people discover it and keeps me motivated to improve it.
