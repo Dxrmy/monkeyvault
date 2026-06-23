@@ -1,14 +1,6 @@
 # MonkeyVault
 
-A curated collection of lightweight Userscripts designed to enhance, bypass, and refine the modern web.
-
-MonkeyVault is a centralized repository for my custom Userscripts. From UI tweaks to content unblockers, these scripts are designed to keep your browsing experience exactly how it should be - clean, fast, and less restricted.
-
-## Features
-
-- **UI Refinements** - Small adjustments to make web layouts more intuitive.
-- **Bypasses & Unblockers** - Remove artificial restrictions and restore functionality to your favorite sites.
-- **Lightweight** - Optimized for performance with minimal resource footprint.
+A repository for my custom Userscripts.
 
 ## Installation
 
