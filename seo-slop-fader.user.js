@@ -46,7 +46,7 @@
         { regex: /designed to help you/gi, weight: 0.5, label: "Service-oriented AI" },
         { regex: /crucial to understand/gi, weight: 0.5, label: "Didactic tone" },
         { regex: /can be challenging/gi, weight: 0.4, label: "Generic empathy" },
-        { regex: /let's explore/gi, weight: 0.6, label: "ChatGPT transition" },
+        { regex: /let's explore/gi, weight: 0.6, label: "transitionMatcher" },
         { regex: /to wrap it up/gi, weight: 0.5, label: "Informal conclusion" },
         
         // Technical / "Slop" Markers (0.7)
