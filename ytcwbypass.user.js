@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YTCWBypass
 // @namespace    http://tampermonkey.net/
-// @version      3.1
+// @version      3.2
 // @description  Bypass YouTube's restrictive "Sensitive Content" prompts with a smart, zero-click auto-skipper.
 // @author       Dormy
 // @match        *://www.youtube.com/*
@@ -14,7 +14,7 @@
     'use strict';
  
     // Global Time Lock to prevent the "Multiple Reload" bug
-    let lastClickTime = 0;
+    let lastClickTime = parseInt(sessionStorage.getItem('ytcw_last_click') || '0', 10);
     const COOLDOWN_MS = 3000; // 3 seconds
  
     function findWarningButton() {
@@ -66,9 +66,12 @@
         // Look for the warning button
         const proceedButton = findWarningButton();
         
-        if (proceedButton) {
+        if (proceedButton && !proceedButton.dataset.ytcwClicked) {
+            proceedButton.dataset.ytcwClicked = 'true';
+            
             // Activate the time lock immediately
             lastClickTime = Date.now();
+            sessionStorage.setItem('ytcw_last_click', lastClickTime.toString());
             
             // Click it
             proceedButton.click();
