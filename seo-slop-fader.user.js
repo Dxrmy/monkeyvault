@@ -5,7 +5,7 @@
 // @description  Identify and visually demote AI-generated SEO slop. Keeps your search results clean, focused, and human.
 // @author       Dormy
 // @match        https://www.google.com/search*
-// @icon         https://raw.githubusercontent.com/Dxrmy/monkeyvault/main/assets/monkey_logo.png
+// @icon         https://raw.githubusercontent.com/Dxrmy/monkeyvault/main/icons/seo-slop-fader.png
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
 // @connect      *

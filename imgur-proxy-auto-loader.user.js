@@ -4,7 +4,7 @@
 // @version      0.2
 // @description  A robust userscript that unblocks Imgur images by pre-loading them through the DuckDuckGo image proxy and replacing the original links only after a successful load.
 // @author       Dormy
-// @icon         https://i.ibb.co/4np6h8Sr/Gemini-Generated-Image-usz9ywusz9ywusz9.png
+// @icon         https://raw.githubusercontent.com/Dxrmy/monkeyvault/main/icons/imgur-proxy-auto-loader.png
 // @match        *://*/*
 // @grant        none
 // @license      MIT

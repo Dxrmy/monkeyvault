@@ -5,7 +5,7 @@
 // @description  Embeds timestamp comments directly inside YouTube's native timestamp pill alongside avatar and author (SoundCloud-style)
 // @author       Dormy
 // @match        *://www.youtube.com/*
-// @icon         https://i.ibb.co/wF0jwp7w/youtube-logo.png
+// @icon         https://raw.githubusercontent.com/Dxrmy/monkeyvault/main/icons/youtube-timestamp-comments.png
 // @license      MIT
 // @grant        none
 // @run-at       document-idle

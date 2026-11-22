@@ -5,7 +5,7 @@
 // @description  Bypass YouTube's restrictive "Sensitive Content" & Content Warning prompts with a smart, zero-click auto-skipper across Standard Videos and Shorts.
 // @author       Dormy
 // @match        *://www.youtube.com/*
-// @icon         https://i.ibb.co/wF0jwp7w/youtube-logo.png
+// @icon         https://raw.githubusercontent.com/Dxrmy/monkeyvault/main/icons/ytcwbypass.png
 // @license      MIT
 // @grant        none
 // @run-at       document-start
