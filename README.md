@@ -13,8 +13,9 @@ A repository for my custom Userscripts.
 
 | Script Name | Description | Install Link |
 | :--- | :--- | :--- |
+| **YouTube Timestamp Comments** | Displays timestamp comments as native-styled interactive pins on the playback bar that expand directly inside the hover pill (SoundCloud-style). | [Install](https://github.com/Dxrmy/monkeyvault/raw/main/youtube-timestamp-comments.user.js) |
 | **Imgur Proxy Auto-Loader** | Bypasses proxy blocks and automatically restores image visibility for Imgur. | [Install](https://github.com/Dxrmy/monkeyvault/raw/main/imgur-proxy-auto-loader.user.js) |
-| **YTCW Bypass** | Automatically bypasses YouTube Content Warning / Age-restriction overlays. | [Install](https://github.com/Dxrmy/monkeyvault/raw/main/ytcwbypass.user.js) |
+| **YTCW Bypass** | Automatically bypasses YouTube Content Warning / Age-restriction overlays on standard videos and Shorts. | [Install](https://github.com/Dxrmy/monkeyvault/raw/main/ytcwbypass.user.js) |
 | **SEO Slop Fader** | Identify and visually demote AI-generated SEO slop. Keeps your search results clean, focused, and human. | [Install](https://github.com/Dxrmy/monkeyvault/raw/main/seo-slop-fader.user.js) |
 
 ## Important Notice
